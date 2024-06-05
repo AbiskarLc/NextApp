@@ -9,6 +9,8 @@
 # testing
 /coverage
 
+# secret
+.env
 # next.js
 /.next/
 /out/
@@ -27,10 +29,12 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
+ 
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
