@@ -1,0 +1,87 @@
+export const users = [
+    {
+        id: 1,
+        name: "Abiskar Lamichhane",
+        age: 21,
+        email: "abiskar@test.com",
+        address: "Kathmandu",
+    },
+    {
+        id: 2,
+        name: "John Doe",
+        age: 25,
+        email: "john.doe@test.com",
+        address: "New York",
+    },
+    {
+        id: 3,
+        name: "Alice Smith",
+        age: 30,
+        email: "alice.smith@test.com",
+        address: "London",
+    },
+    {
+        id: 4,
+        name: "Elena Rodriguez",
+        age: 28,
+        email: "elena.rodriguez@test.com",
+        address: "Madrid",
+    },
+    {
+        id: 5,
+        name: "Mohammed Khan",
+        age: 35,
+        email: "mohammed.khan@test.com",
+        address: "Dubai",
+    },
+    {
+        id: 6,
+        name: "Sophie Martin",
+        age: 29,
+        email: "sophie.martin@test.com",
+        address: "Paris",
+    },
+    {
+        id: 7,
+        name: "Chen Wei",
+        age: 26,
+        email: "chen.wei@test.com",
+        address: "Beijing",
+    },
+    {
+        id: 8,
+        name: "Hiroshi Tanaka",
+        age: 32,
+        email: "hiroshi.tanaka@test.com",
+        address: "Tokyo",
+    },
+    {
+        id: 9,
+        name: "Maria Garcia",
+        age: 31,
+        email: "maria.garcia@test.com",
+        address: "Barcelona",
+    },
+    {
+        id: 10,
+        name: "Anastasia Ivanova",
+        age: 27,
+        email: "anastasia.ivanova@test.com",
+        address: "Moscow",
+    },
+    {
+        id: 11,
+        name: "Diego Silva",
+        age: 33,
+        email: "diego.silva@test.com",
+        address: "Rio de Janeiro",
+    },
+    {
+        id: 12,
+        name: "Emily Chen",
+        age: 24,
+        email: "emily.chen@test.com",
+        address: "Shanghai",
+    }
+]
+
